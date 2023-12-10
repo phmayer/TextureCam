@@ -1,0 +1,17 @@
+for the texture maps generator:
+
+
+
+picture gets taken by camera
+-> picture then gets saved as a file (?)
+-> for every picture taken we create a folder with the timestamp as name
+-> the original picture gets a name like 'original'
+
+then after picture was taken and saved successfully,
+then the texture generator module gets called
+
+a function is called, and as argument the path to the folder with the picture is given????
+or do we just work with picture objects????
+
+
+
