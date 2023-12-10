@@ -1,3 +1,5 @@
+# (credit for example image goes to: https://www.pexels.com/photo/red-and-gray-brick-wall-93417/)
+
 import normal_map_generator as nmp
 from PIL import Image
 
